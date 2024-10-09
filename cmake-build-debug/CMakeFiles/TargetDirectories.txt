@@ -1,0 +1,3 @@
+C:/Users/kosac/CLionProjects/sandbox/cmake-build-debug/CMakeFiles/sandbox.dir
+C:/Users/kosac/CLionProjects/sandbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kosac/CLionProjects/sandbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
